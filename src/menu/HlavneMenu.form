@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="menu.HlavneMenu">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="GridLayoutManager" row-count="4" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="502" height="531"/>
+    </constraints>
+    <properties>
+      <preferredSize width="1280" height="832"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="a1efd" class="javax.swing.JButton" binding="hratButton">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="7" anchor="0" fill="0" indent="4" use-parent-layout="false">
+            <minimum-size width="440" height="128"/>
+            <preferred-size width="440" height="128"/>
+            <maximum-size width="440" height="128"/>
+          </grid>
+        </constraints>
+        <properties>
+          <autoscrolls value="false"/>
+          <background color="-12960449"/>
+          <contentAreaFilled value="false"/>
+          <doubleBuffered value="false"/>
+          <font name="Britannic Bold" size="26"/>
+          <foreground color="-1"/>
+          <horizontalTextPosition value="0"/>
+          <icon value="textury/menuButton.png"/>
+          <iconTextGap value="-225"/>
+          <opaque value="true"/>
+          <text value="HRAT"/>
+        </properties>
+      </component>
+      <component id="12242" class="javax.swing.JButton" binding="nacitajHruButton">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="7" anchor="0" fill="0" indent="4" use-parent-layout="false">
+            <minimum-size width="440" height="128"/>
+            <preferred-size width="440" height="128"/>
+            <maximum-size width="440" height="128"/>
+          </grid>
+        </constraints>
+        <properties>
+          <autoscrolls value="false"/>
+          <background color="-12960449"/>
+          <contentAreaFilled value="false"/>
+          <doubleBuffered value="false"/>
+          <font name="Britannic Bold" size="26"/>
+          <foreground color="-1"/>
+          <horizontalTextPosition value="0"/>
+          <icon value="textury/menuButton.png"/>
+          <iconTextGap value="-225"/>
+          <opaque value="true"/>
+          <text value="NACITAJ HRU"/>
+        </properties>
+      </component>
+      <component id="4b8be" class="javax.swing.JButton" binding="vypniButton">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="7" anchor="0" fill="0" indent="4" use-parent-layout="false">
+            <minimum-size width="440" height="128"/>
+            <preferred-size width="440" height="128"/>
+            <maximum-size width="440" height="128"/>
+          </grid>
+        </constraints>
+        <properties>
+          <autoscrolls value="false"/>
+          <background color="-12960449"/>
+          <contentAreaFilled value="false"/>
+          <doubleBuffered value="false"/>
+          <font name="Britannic Bold" size="26"/>
+          <foreground color="-1"/>
+          <horizontalTextPosition value="0"/>
+          <icon value="textury/menuButton.png"/>
+          <iconTextGap value="-225"/>
+          <opaque value="true"/>
+          <text value="VYPNI"/>
+        </properties>
+      </component>
+      <component id="238a9" class="javax.swing.JButton" binding="ulozHruButton">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="7" anchor="0" fill="0" indent="4" use-parent-layout="false">
+            <minimum-size width="440" height="128"/>
+            <preferred-size width="440" height="128"/>
+            <maximum-size width="440" height="128"/>
+          </grid>
+        </constraints>
+        <properties>
+          <autoscrolls value="false"/>
+          <background color="-12960449"/>
+          <contentAreaFilled value="false"/>
+          <doubleBuffered value="false"/>
+          <font name="Britannic Bold" size="26"/>
+          <foreground color="-1"/>
+          <horizontalTextPosition value="0"/>
+          <icon value="textury/menuButton.png"/>
+          <iconTextGap value="-225"/>
+          <opaque value="true"/>
+          <text value="ULOZ HRU"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
