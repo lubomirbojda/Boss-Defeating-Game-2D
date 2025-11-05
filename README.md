@@ -33,5 +33,4 @@ Code comments, variables and everything similiar is also in slovak language.
 ## Screenshots
 
 <img width="1277" height="856" alt="image" src="https://github.com/user-attachments/assets/79216226-11cc-4da4-8a9a-e101b2c3b88a" />
-<img width="1275" height="855" alt="image" src="https://github.com/user-attachments/assets/c0fe3907-4cf5-4b8a-9945-784c0a9f19eb" />
 
